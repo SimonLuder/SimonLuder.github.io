@@ -9,13 +9,17 @@ weight: 3
 
 Hello, my name is Simon Luder. I am happy to welcome you here.
 
-At the moment I am enrolled as a full-time Data Science student at the FHNW.
-In my studies I could so far gain various experiences in the areas of programming, data analysis and visualization, statistics and machine learning.
-Besides the theoretical education I had the opportunity to gain practical experience in various projects. Below is a small collection of projects in which I have been working on:
+I am currently enrolled as part-time Data Science student at the University of Applied Sciences and Arts Northwestern Switzerland (FHNW) and work the other half as a Research Assistant in Data Science with a focus on applied research.
 
-- Medical evaluation of patients with suspicion of uveitis.
-- Analysis of sensor data for a test apartment setup at ETH Zurich.
-- Implementation of a recommender system for shopping cart data.
+Throughout my studies, I’ve had the opportunity to gain hands-on experience through a variety of projects. Here is a selection of projects I’ve contributed to:
+
+- Development of a latent diffusion model for the controlled generation of holographic pollen images. 
+
+- Implementation of a deep learning-based recommender system to assess visual similarities of product images.
+
+- Medical assessment of patients suspected of having uveitis
+
+- Machine learning based classification of activities using smartphone senor data.
 
 <div class="row">
 {% include about/skills.html title="Data Science" source=site.data.datascience-skills %}
