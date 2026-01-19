@@ -14,9 +14,9 @@ An interediate goal was to obtain multiple head poses per individual in order to
 
 Head orientation can be estimated in real time using facial landmarks which allows reference images to be captured at different yaw, pitch, and roll angles. These pose-specific embeddings better represent how a face appears from multiple viewpoints, making the system more robust to changes in head rotation, camera alignment, and viewing perspective.
 
-<img src="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/pitch_yaw_roll.gif?raw=true" class="figure-img img-fluid rounded" alt="pitch yaw and roll example">
+<img src="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/pitch_yaw_roll.mp4?raw=true" class="figure-img img-fluid rounded" alt="pitch, roll and yaw">
 
-{% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/pitch_yaw_roll.gif?raw=true"  caption="pitch yaw and roll example" %}
+{% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/pitch_yaw_roll.mp4?raw=true"  caption="pitch, roll and yaw" %}
 
 
 A simplified implementation of the used approach is available on my GitHub. The repository contains an example of real-time multi-face head pose estimation with visualized orientation axes, built using Python, OpenCV and MediaPipe.
