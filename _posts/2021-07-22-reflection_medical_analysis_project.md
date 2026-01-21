@@ -1,9 +1,9 @@
 ---
-title: Reflection Medical Analysis
-tags: [Reflection, Project]
+title: Medical Analysis of Uveitis Patients
+tags: [Project]
 style: 
 color: 
-description: A reflection of the project Medical Analysis from FS21.
+description: A Medical Analysis of Uveitis Patients.
 ---
 
 {% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/Medical_Zeichenfläche 1.png?raw=true" caption="" %}
